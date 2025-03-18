@@ -1,5 +1,5 @@
 // Learning C++ 
-// Exercise 00_03
+// Exercise 00_03 modified
 // Using the exercise files on GitHub, by Eduardo Corpeño 
 
 #include <iostream>
@@ -19,3 +19,6 @@ int main(){
     std::cout << std::endl << std::endl;
     return (0);
 }
+
+
+//Testing
